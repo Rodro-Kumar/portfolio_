@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "category": "Branding",
+    "title": "Motion Graphics",
+    "subTitle": "We specialize in creating visually appealing and user-friendly websites",
+    "image": "web-development.jpg"
+  },
+  {
+    "id": 2,
+    "category": "Branding",
+    "title": "Visual Design",
+    "subTitle": "We specialize in creating visually appealing and user-friendly websites",
+    "image": "web-development.jpg"
+  },
+  {
+    "id": 3,
+    "category": "Photography",
+    "title": "Pixel Media",
+    "subTitle": "Mobile",
+    "image": "web-development.jpg"
+  },
+  {
+    "id": 4,
+    "category": "Photography",
+    "title": "Animation Design",
+    "subTitle": "We specialize in creating visually appealing and user-friendly websites",
+    "image": "web-development.jpg"
+  },
+  {
+    "id": 5,
+    "category": "Fashion",
+    "title": "Wearing Styles",
+    "subTitle": "Desktop/Mobile",
+    "image": "web-development.jpg"
+  },
+  {
+    "id": 6,
+    "category": "Fashion",
+    "title": "Myntra",
+    "subTitle": "Desktop",
+    "image": "web-development.jpg"
+  },
+  {
+    "id": 7,
+    "category": "Product",
+    "title": "E-Learning App",
+    "subTitle": "Desktop",
+    "image": "web-development.jpg"
+  },
+  {
+    "id": 8,
+    "category": "Product",
+    "title": "Web Application",
+    "subTitle": "Desktop",
+    "image": "web-development.jpg"
+  }
+]

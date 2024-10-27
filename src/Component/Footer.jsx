@@ -20,7 +20,9 @@ const Footer = () => {
                 "Contract",
               ].map((item, index) => (
                 <li key={index} className="flex items-center gap-x-8">
-                  <a href="#">{item}</a>
+                  <a href="#" className="hover:text-secondaryColor">
+                    {item}
+                  </a>
 
                   {item === "Contract" ? (
                     ""

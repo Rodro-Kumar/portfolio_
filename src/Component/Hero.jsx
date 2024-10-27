@@ -1,4 +1,3 @@
-import React from "react";
 import heroIMg from "../assets/hero.png";
 import vector from "../assets/shape.png";
 import Button from "./Common/Button";
@@ -15,7 +14,7 @@ const Hero = () => {
             {/* Left */}
             <div className="py-52">
               <h1 className="font-vollkorn font-bold text-[90px] text-white leading-[100px]">
-                Hello! <br /> I’m Zarror Nibors
+                Hello! <br /> I’m Rodro Karmakar
               </h1>
 
               <p className="font-jost font-normal text-xl text-[#ffffff7e] max-w-[670px] pt-2">
